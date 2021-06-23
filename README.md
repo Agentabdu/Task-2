@@ -1,2 +1,3 @@
-# Task-2
-Task 2: ROS Robot with Slam Approach
+# Task 2: ROS Robot with Slam Approach
+
+Made by: Abdullah Subedar
