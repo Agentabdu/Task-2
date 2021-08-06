@@ -19,6 +19,6 @@ And this is a map.
 
 ## Task2
 
-Use another ROS robot whit SLAM approach to create and save a map.
+Use another ROS robot with SLAM approach to create and save a map.
 
 ## Answer: In_progress
